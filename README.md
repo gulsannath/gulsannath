@@ -25,7 +25,7 @@
 <a href="https://instagram.com/gulsannath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gulsannath" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gulsannath87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gulsannath87" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gulsannath87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gulsannath87" height="30" width="40" /></a>
-<a href="https://leetcode.com/user/gulsannath87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="gulsannath87" height="30" width="40" /></a>
+![Leetcode Stats](https://leetcard.jacoblin.cool/gulsannath87)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
