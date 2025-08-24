@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **News App**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **React , Node.js**
+- 💬 Ask me about **ML , React.js**
 
 - 📫 How to reach me **gulsannath87@gmail.com**
 
